@@ -43,7 +43,7 @@ Braille Translation
 Text-to-Speech Output
 
 ---
-## Screenshots (Optional but Recommended)
+## Screenshots 
 
 ![Home Screen](homescreen.png)  
 ![Scan Screen](scanscreen.png)
