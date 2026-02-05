@@ -54,14 +54,6 @@ Text-to-Speech Output
 
 ---
 
-## Screenshots 
-
-![Home Screen](screenshot_home.png)  
-![Scan Screen](screenshot_scan.png)  
-![Learn Screen](screenshot_learn.png)  
-
----
-
 ## Future Work
 - Real-time Braille recognition without templates  
 - Multi-language support  
