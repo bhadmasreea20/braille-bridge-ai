@@ -43,6 +43,13 @@ Braille Translation
 Text-to-Speech Output
 
 ---
+## Screenshots (Optional but Recommended)
+
+![Home Screen](homescreen.png)  
+![Scan Screen](scanscreen.png)
+![result Screen](resultscreen.png) 
+![Learn Screen](learnscreen.png) 
+![Learn Screen](learn.png) 
 
 ## Getting Started
 
