@@ -34,14 +34,14 @@
 ## Architecture
 Camera Input
 ↓
-Base44 / App UI
+App UI
 ↓
 Airia AI Brain
 ↓
 Braille Translation
 ↓
 Text-to-Speech Output
-
+![Airia Pipeline](airiappipeline.png) 
 ---
 ## Screenshots 
 
