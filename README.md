@@ -41,7 +41,8 @@ Airia AI Brain
 Braille Translation
 ↓
 Text-to-Speech Output
-![Airia Pipeline](airiappipeline.png) 
+![Airia Pipeline](airiapipeline.png) 
+
 ---
 ## Screenshots 
 
